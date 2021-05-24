@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../My Application wear.iml" filepath="$PROJECT_DIR$/../My Application wear.iml" group="My Application wear" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" group="My Application wear/app" />
+      <module fileurl="file://$PROJECT_DIR$/mobileapp/mobileapp.iml" filepath="$PROJECT_DIR$/mobileapp/mobileapp.iml" group="My Application wear/app/mobileapp" />
+      <module fileurl="file://$PROJECT_DIR$/../movilapp/movilapp.iml" filepath="$PROJECT_DIR$/../movilapp/movilapp.iml" group="My Application wear/movilapp" />
+      <module fileurl="file://$PROJECT_DIR$/movileapp/movileapp.iml" filepath="$PROJECT_DIR$/movileapp/movileapp.iml" group="My Application wear/app/movileapp" />
+    </modules>
+  </component>
+</project>

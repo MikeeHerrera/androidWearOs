@@ -1,0 +1,6 @@
+rootProject.name='My Application wear'
+include ':app'
+include ':app:mobileapp'
+include ':app:movileapp'
+include ':movilapp'
+include ':movilapp2'
