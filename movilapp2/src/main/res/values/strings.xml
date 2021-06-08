@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MovilApp</string>
+    <string name="reply_label"> My Replay</string>
+    <string name="reply_was"> Replay Was</string>
+    <string-array name="reply_choices">
+
+        <item>Yes</item>
+        <item>No</item>
+        <item>Mat be</item>
+
+
+    </string-array>
 </resources>

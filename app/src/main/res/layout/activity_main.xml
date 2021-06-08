@@ -13,18 +13,28 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:padding="@dimen/inner_frame_layout_padding"
-        app:boxedEdges="all">
+       >
 
         <Button
             android:id="@+id/button"
             style="@android:style/Widget.Button.Small"
-            android:layout_width="wrap_content"
-            android:layout_height="70dp"
+            android:layout_width="115dp"
+            android:layout_height="34dp"
             android:onClick="notifyMe"
             android:text="Notify Me"
 
 
             />
 
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="115dp"
+            android:layout_height="36dp"
+            android:layout_marginTop="50px"
+android:onClick="voiceInput"
+            android:text="Voice Input" />
+
+
     </FrameLayout>
+
 </androidx.wear.widget.BoxInsetLayout>

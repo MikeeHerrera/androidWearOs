@@ -24,4 +24,13 @@
         tools:layout_editor_absoluteX="55dp"
         tools:layout_editor_absoluteY="36dp" />
 
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Voice Input"
+        android:onClick="voiceInput"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="110dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
